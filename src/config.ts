@@ -22,7 +22,7 @@ export default {
     '总有人间一两风，吹我十万八千梦.',
   ],
   // 网站创建时间
-  CreateTime: '2021-09-01',
+  CreateTime: '2022-07-19',
   // 顶部 Banner 配置
   HomeBanner: {
     enable: true,
@@ -68,6 +68,7 @@ export default {
     { text: '每日热榜', link: 'https://hot.vvhan.com', icon: 'WebSite_hot' },
     // { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: 'WebSite_img' },
     { text: 'HanAnalytics', link: 'https://analytics.vvhan.com', icon: 'WebSite_analytics' },
+    { text: 'Rss订阅', link: '/rss.xml', icon: 'Rss' },
   ],
   // 侧边栏展示
   AsideShow: {
